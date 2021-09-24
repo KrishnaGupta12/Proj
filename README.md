@@ -1,2 +1,2 @@
-# Proj
+# Project e2os
 project 
